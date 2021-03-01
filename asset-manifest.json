@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/loopstudios/static/css/main.d1ccd4ba.chunk.css",
+    "main.css": "/loopstudios/static/css/main.0aa3d8a4.chunk.css",
     "main.js": "/loopstudios/static/js/main.aa389a7a.chunk.js",
     "main.js.map": "/loopstudios/static/js/main.aa389a7a.chunk.js.map",
     "runtime-main.js": "/loopstudios/static/js/runtime-main.969d0ddf.js",
@@ -12,7 +12,7 @@
     "static/js/3.76bcb773.chunk.js.map": "/loopstudios/static/js/3.76bcb773.chunk.js.map",
     "index.html": "/loopstudios/index.html",
     "static/css/2.150d169a.chunk.css.map": "/loopstudios/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.d1ccd4ba.chunk.css.map": "/loopstudios/static/css/main.d1ccd4ba.chunk.css.map",
+    "static/css/main.0aa3d8a4.chunk.css.map": "/loopstudios/static/css/main.0aa3d8a4.chunk.css.map",
     "static/js/2.4cd9e533.chunk.js.LICENSE.txt": "/loopstudios/static/js/2.4cd9e533.chunk.js.LICENSE.txt",
     "static/media/icon-facebook.e9773e52.svg": "/loopstudios/static/media/icon-facebook.e9773e52.svg",
     "static/media/icon-instagram.8d0df555.svg": "/loopstudios/static/media/icon-instagram.8d0df555.svg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.969d0ddf.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.4cd9e533.chunk.js",
-    "static/css/main.d1ccd4ba.chunk.css",
+    "static/css/main.0aa3d8a4.chunk.css",
     "static/js/main.aa389a7a.chunk.js"
   ]
 }
